@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="3.3" release="1">
+	<properties>
+		<name>Kraken AD&amp;D 2E Sidebar by Default</name>
+		<version>1.0</version>
+		<author>The Kraken</author>
+		<description>AD&amp;D 2E: new players start with the standard sidebar instead of the top Menus / Records / Books bar. Anyone who picks Menus in Options (Menu Style) keeps it.</description>
+		<ruleset>
+			<name>2E</name>
+		</ruleset>
+		<loadorder>200</loadorder>
+	</properties>
+	<base>
+		<script name="Kraken2ESidebar" file="scripts/sidebar_default.lua" />
+	</base>
+</root>
