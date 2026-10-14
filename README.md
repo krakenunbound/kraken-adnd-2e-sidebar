@@ -2,6 +2,16 @@
 
 A tiny Fantasy Grounds Unity extension for the **AD&D 2E** ruleset: new players start with the standard **sidebar** like every other ruleset, instead of the old-school **Menus / Records / Books** bar across the top.
 
+## Before and after
+
+**Without the extension:** the 2E default, Menus / Records / Books across the top.
+
+![Before: the top Menus bar](docs/images/before-menus.png)
+
+**With the extension:** the standard sidebar, like every other ruleset.
+
+![After: the sidebar](docs/images/after-sidebar.png)
+
 ## What it does
 
 The 2E ruleset ships with **Options → Menu Style** set to **Menus** by default, so everyone who hasn't changed it gets the top bar. This extension changes only the **default** of that option to **Sidebar**:
